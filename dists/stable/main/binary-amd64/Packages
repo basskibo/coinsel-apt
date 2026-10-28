@@ -1,0 +1,21 @@
+Package: coinsel
+Architecture: amd64
+Version: 1.4.2
+Priority: optional
+Section: default
+Maintainer: Bojan Jagetic <bojan.jagetic@codemeup.rs>
+Installed-Size: 289485
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: pool/main/c/coinsel/coinsel_1.4.2_amd64.deb
+Size: 99241404
+MD5sum: 18d057c6b9b9e12c33d12ee922c832d3
+SHA1: 67b5587a6e6f0b24ea34c30985f555cd0e028d2e
+SHA256: b0ddc4b0900a65a1b3d3fddb02ccc23bd99adea4583736f1fb9c93d3cd5b51e5
+SHA512: 8e00bd68669b1528f300dca6201bc6623abf4950a35c64c5d30bb40b9e1d241d47562822b192c93977cd2ad11205ed680f12a35edd2ef749589f298987878575
+Homepage: https://coinsel.jageticbojan.com
+Description: Expenses, bills, loans and debts in one place
+  Personal finance without the spreadsheet. Log small expenses in two seconds, keep bills, loans and debts under control, sync card payments from bank SMS, and ask Coinsel — an AI analyst — where the money goes.
+License: MIT
+Vendor: Bojan Jagetic <bojan.jagetic@codemeup.rs>
+
